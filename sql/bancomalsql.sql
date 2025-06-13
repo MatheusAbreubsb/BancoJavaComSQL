@@ -331,7 +331,7 @@ VALUES (
 INSERT INTO usuario (nome, cpf, data_nascimento, telefone, tipo_usuario, senha_hash)
 VALUES (
     'Matheus Alves Abreu',
-    '06071867126',
+    '',
     '1997-09-03',
     '(61) 98888-7777',
     'FUNCIONARIO',
