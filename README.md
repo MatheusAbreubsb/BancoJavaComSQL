@@ -1,6 +1,12 @@
 RESUMO:
 1- Configure o SQL, pode utilizar o arquivo dump ou o bancomalsql, mas atente-se ao nome do banco 
+
 2- Aplique a configuração java
+
+Participação:
+- Matheus Alves Abreu
+- Thiago dos Santos Lima
+- Wanderson Mateus Borges da Silva
 
 Passo a passo:
 # Banco Malvader 🏦
